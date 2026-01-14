@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../../dbt-zero-to-hero/dev-repo"
+		},
+		{
+			"path": "../../../dbt-zero-to-hero/dbtlearn-snowflake-importer"
 		}
 	],
 	"settings": {}

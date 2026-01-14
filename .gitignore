@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Claude
+.claude/
+CLAUDE.md
+
+# dbt
+target/
+dbt_packages/
+dbt_internal_packages/
