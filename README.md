@@ -11,7 +11,7 @@ Data Engineering 2 - Modern Data Platforms: dbt, Snowflake, Databricks, Apache S
 
 ### Snowflake Setup
 2. Register to Snowflake: https://signup.snowflake.com/?trial=student&cloud=aws&region=us-west-2
-3. Set up Snowflake tables: https://dbtsetup.nordquant.com/
+3. Set up Snowflake tables: https://dbtsetup.nordquant.com/?course=ceu
 
 ### dbt Setup
 4. Fork this repo and clone it to your PC: https://github.com/nordquant/dbt-student-repo
