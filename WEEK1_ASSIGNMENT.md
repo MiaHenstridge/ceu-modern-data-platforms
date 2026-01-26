@@ -1,7 +1,7 @@
 # CEU Data Engineering 2 - Modern Data Platforms - Assignment - Week 1
 
 ## Fork this repo
-1) Please fork **this repo** as a **private repository**. Don't worry about any changes you made to your work on Monday; I updated the `airbnb` folder of this repository so it exactly reflects how far we've gone
+1) Please fork **this repo**. Don't worry about any changes you made to your work on Monday; I updated the `airbnb` folder of this repository so it exactly reflects how far we've gone
 2) Clone it to your local machine (not by downloading the zip but with the git command using the https/ssh link from github)
 
 ### Invite collaborators (GitHub web UI)
@@ -64,10 +64,7 @@ Execute `dbt run`. If it works, you are done.
 
 # Submission
 
-1) Commit your changes and push them to GitHub. Also add `profiles.yml` to git.
-   > Generally speaking you would never push a file that has credentials to git.
-   > But as we are in an instructional setting and this is a private repo, now it's OK to do so.
-
+1) Commit your changes and push them to GitHub.
 2) Submit the URL to your GitHub repository (the fork, that is) on Moodle under "Assignment - Week 1"
 
 ## Deadline
