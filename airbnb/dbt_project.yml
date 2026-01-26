@@ -35,3 +35,8 @@ models:
       +materialized: ephemeral
     dim:
       +materialized: view # This is default, but let's make it explicit
+
+# storing test failures in a separate schema
+data_tests:
+  +store_failures: true
+  +schema: _test_failures
