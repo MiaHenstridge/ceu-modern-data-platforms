@@ -9,7 +9,7 @@ models:
       - name: host_id
         data_tests:
           - not_null
-          - relationships:
+          - relationships:    # foreign key test 
               arguments:
                 to: ref('dim_hosts_cleansed')
                 field: host_id
