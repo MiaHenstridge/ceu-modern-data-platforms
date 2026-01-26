@@ -31,7 +31,3 @@ clean-targets:         # directories to be removed by `dbt clean`
 # files using the `{{ config(...) }}` macro.
 models:
   airbnb:
-    src:
-      +materialized: ephemeral
-    dim:
-      +materialized: view # This is default, but let's make it explicit
