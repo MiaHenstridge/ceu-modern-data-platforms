@@ -16,7 +16,7 @@ SELECT
   ) :: NUMBER(
     10,
     2
-  ) AS price,
+  ) AS price,   -- snowflake specific syntax to convert string to number
   created_at,
   updated_at
 FROM
